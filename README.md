@@ -8,3 +8,11 @@ Amazing links for reference and self study.
 
 ## Torrent site for study materials
 - [Academic Torrents](http://academictorrents.com/)
+
+## System Design 
+- [Grokking the system design interview Course](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904) (Paid)
+- [InterviewBit System Design Course](https://www.interviewbit.com/courses/system-design/) (Practice)
+
+## Competitive Coding
+- [InterviewBit](https://www.interviewbit.com/courses/programming/topics/arrays/)
+- [LeetCode](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=recent_activity&query=)
