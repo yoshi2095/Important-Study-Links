@@ -12,6 +12,8 @@ Amazing links for reference and self study.
 ## System Design 
 - [Grokking the system design interview Course](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904) (Paid)
 - [InterviewBit System Design Course](https://www.interviewbit.com/courses/system-design/) (Practice)
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview#qs) (Github Repo)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) (Github Repo)
 
 ## Competitive Coding
 - [InterviewBit](https://www.interviewbit.com/courses/programming/topics/arrays/)
