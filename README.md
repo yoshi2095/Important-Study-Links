@@ -7,8 +7,9 @@ Amazing links for reference and self study.
 - [ES6-features](http://es6-features.org/#Constants)
 - [My Repo for ES6-features](https://github.com/yoshi2095/ES6-features)
 
-## Torrent site for study materials
-- [Academic Torrents](http://academictorrents.com/)
+## MongoDB
+- [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y) (Video)
+- [MongoDB in 18 Minutes - Intro to MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E) (Video)
 
 ## System Design 
 - [Grokking the system design interview Course](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904) (Paid)
@@ -28,3 +29,6 @@ Amazing links for reference and self study.
 - [InterviewBit](https://www.interviewbit.com/courses/programming/topics/arrays/)
 - [LeetCode](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=recent_activity&query=)
 - [GeeksForGeeks Must Do Coding Questions Topicwise](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+
+## Torrent site for study materials
+- [Academic Torrents](http://academictorrents.com/)
